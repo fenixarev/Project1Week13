@@ -39,7 +39,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | Jump Box  | Gateway  |     10.0.0.1       |  20.70.185.59     |  Linux - Ubuntu  |
 | Web-1     |App-Site  |     10.0.0.5       |  20.213.85.27     |  Linux - Ubuntu  |
 | Web-2     |App-Site  |     10.0.0.6       |  20.213.85.59     |  Linux - Ubuntu  |
-| ELK-Server|ELK-Stack |     10.1.0.4       |  20.42.243.135    |  Linux Ubuntu    |
+| ELK-Server|ELK-Stack |     10.1.0.4       |  20.42.243.135    |  Linux - Ubuntu  |
 
 ### Access Policies
 
