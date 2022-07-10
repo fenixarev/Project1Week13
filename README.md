@@ -36,7 +36,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 
 | Name      | Function | Private IP Address | Public IP Address | Operating System |
 |-----------|----------|--------------------|-------------------|------------------|
-| Jump Box  | Gateway  |     10.0.0.1       |  20.70.185.59     |  Linux - Ubuntu  |
+| Jump Box  | Gateway  |     10.0.0.4       |  20.70.185.59     |  Linux - Ubuntu  |
 | Web-1     |App-Site  |     10.0.0.5       |  20.213.85.27     |  Linux - Ubuntu  |
 | Web-2     |App-Site  |     10.0.0.6       |  20.213.85.59     |  Linux - Ubuntu  |
 | ELK-Server|ELK-Stack |     10.1.0.4       |  20.42.243.135    |  Linux - Ubuntu  |
@@ -45,10 +45,11 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 
 The machines on the internal network are not exposed to the public Internet. 
 
-Only the _____ machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-- _TODO: Add whitelisted IP addresses_
+Only the JUMPBOX PROVISIONER machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
+- Public IP= 76.111.55.63
+- Private (LAN) = 10.0.0.4
 
-Machines within the network can only be accessed by _____.
+Machines within the network can only be accessed by SSH.
 - _TODO: Which machine did you allow to access your ELK VM? What was its IP address?_
 
 A summary of the access policies in place can be found in the table below.
