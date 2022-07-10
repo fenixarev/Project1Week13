@@ -1,0 +1,71 @@
+azadmin@JumpBox-VM:~$ history
+    1  exit
+    2  clear
+    3  sudo  apt update
+    4  install net-tools
+    5  ifconfig
+    6  sudo install net-tools
+    7  sudo apt install net-tools
+    8  sudo apt install docker.io
+    9  clear
+   10  sudo docker pull cyberxsecurity/ubuntu:bionic
+   11  sudo docker run -ti cyberxsecurity/ubuntu:bionic bash
+   12  sudo docker pull cyberxsecurity/ansible
+   13  sudo docker run -ti cyberxsecurity/ansible bash
+   14  sudo docker images
+   15  clear
+   16  sudo docker container list -a
+   17  sudo docker start upbeat_jang
+   18  sudo docker container running
+   19  sudo docker ps
+   20  sudo docker attach upbeat_jang
+   21  sudo docker list -a
+   22  sudo docker container list -a
+   23  sudo docker attach upbeat_jang
+   24  sudo docker container list -a
+   25  sudo docker attach upbeat_jang
+   26  sudo docker ps
+   27  sudo docker container list -a
+   28  sudo docker attach upbeat_jang
+   29  sudo docker start upbeat_jang
+   30  sudo docker attach upbeat_jang
+   31  sudo docker container list -a
+   32  sudo docker start upbeat_jang
+   33  sudo docker attach upbeat_jang
+   34  sudo docker container list -a
+   35  sudo docker start upbeat_jang
+   36  sudo docker ps
+   37  sudo docker attach upbeat_jang
+   38  sudo docker ps
+   39  sudo docker attach upbeat_jang
+   40  sudo docker container list -a
+   41  sudo docker attach upbeat_jang
+   42  sudo docker attach upbeat_jang start
+   43  sudo docker start upbeat_jang
+   44  sudo docker attach upbeat_jang
+   45  sudo docker container list -a
+   46  sudo docker start ubuntu:bionic
+   47  sudo docker start zen_hodgkin
+   48  sudo docker attach zen_hodgkin
+   49  sudo docker attach upbeat_jang
+   50  sudo docker start upbeat_jang
+   51  sudo docker attach upbeat_jang
+   52  ssh 10.0.0.5
+   53  ls
+   54  cd /
+   55  ls
+   56  sudo docker container list -a
+   57  sudo docker attach upbeat_jang
+   58  sudo docker start upbeat_jang
+   59  sudo docker attach upbeat_jang
+   60  cd /
+   61  ls
+   62  sudo docker ps
+   63  sudo docker container list -a
+   64  sudo docker attach upbeat_jang
+   65  sudo docker start upbeat_jang
+   66  sudo docker attach upbeat_jang
+   67  sudo docker start upbeat_jang
+   68  sudo docker attach upbeat_jang
+   69  history
+azadmin@JumpBox-VM:~$

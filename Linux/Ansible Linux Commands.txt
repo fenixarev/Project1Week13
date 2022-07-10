@@ -1,0 +1,47 @@
+root@cbdd0a1c7c27:~# history
+    1  sudo docker images
+    2  exit
+    3  cat ~/.ssh/id_rsa.pub
+    4  ls
+    5  cd /etc/ansible/
+    6  ls
+    7  nano hosts
+    8  cat hosts
+    9  ping 10.1.0.4
+   10  nano hosts
+   11  cat hosts
+   12  ls
+   13  nano ansible.cfg
+   14  nano elkplaybook.yml
+   15  clear
+   16  ansible elk -m ping
+   17  ansible-playbook elkplaybook.yml
+   18  ssh azadmin@10.1.0.4
+   19  exit
+   20  ifconfig
+   21  exit
+   22  ssh sysadmin@10.0.05
+   23  ssh sysadmin@10.0.0.5
+   24  exit
+   25  ls
+   26  cd /
+   27  ls
+   28  exit
+   29  ls
+   30  cd /
+   31  ls
+   32  cd /etc
+   33  ls
+   34  cd ansible/
+   35  ls
+   36  cat ansible.cfg
+   37  ll
+   38  cat install-elk.yml
+   39  ls -l
+   40  cat hosts
+   41  ls -l
+   42  cat filebeat-configuration.yml
+   43  cat filebeat-playbook.yml
+   44  ll
+   45  cat filebeat-configuration.yml
+   46  clear
