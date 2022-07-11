@@ -1,4 +1,4 @@
-# Project1Week13
+# Project1 - Week13
 Week 13 ELK Stack Project
 
 ## Automated ELK Stack Deployment
